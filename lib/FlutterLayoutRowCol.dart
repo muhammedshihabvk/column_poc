@@ -20,7 +20,7 @@ class FlutterLayoutRowCol extends StatelessWidget{
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: <Widget>[
-                  RedBall(),RedBox(),RedRect(),
+                  RedBall(),RedBox(),RedRect(),RedBox(),
                 ],
               ),
               SizedBox(height: 20,),
